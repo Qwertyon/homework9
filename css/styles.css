@@ -38,7 +38,6 @@ html {
   font-size: 14px;
 }
 
-
 a,
 a:hover {
   color: #ffffff;
@@ -89,6 +88,7 @@ li {
   color: #ffffff;
   font-weight: 700;
   border-color: rgba(255, 255, 255, 0);
+  cursor: pointer;
 }
 
 .btn:hover {
@@ -167,6 +167,7 @@ li {
 .photo {
   width: 100%;
   height: auto;
+  border-radius: 50%;
 }
 
 .photo-wrapper::before {
